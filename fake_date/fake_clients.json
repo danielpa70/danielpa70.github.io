@@ -1,0 +1,163 @@
+[    
+    {
+    "contrato": true,
+    "nombre": "Juan Pérez",
+    "dni": 5432109,
+    "direccion": "Córdoba, Córdoba",
+    "numero": 2109,
+    "credencial": 1043210
+  },
+  {
+    "contrato": false,
+    "nombre": "Ana García",
+    "dni": 2345678,
+    "direccion": "Rosario, Santa Fe",
+    "numero": 5678,
+    "credencial": 6734567
+  },
+  {
+    "contrato": true,
+    "nombre": "Carlos López",
+    "dni": 12345678,
+    "direccion": "Mendoza, Mendoza",
+    "numero": 5678,
+    "credencial": 6723456
+  },
+  {
+    "contrato": false,
+    "nombre": "María Rodríguez",
+    "dni": 7654321,
+    "direccion": "Buenos Aires, CABA",
+    "numero": 4321,
+    "credencial": 3265432
+  },
+  {
+    "contrato": true,
+    "nombre": "Pedro Fernández",
+    "dni": 3210987,
+    "direccion": "Tucumán, Tucumán",
+    "numero": 10987,
+    "credencial": 9821098
+  },
+  {
+    "contrato": false,
+    "nombre": "Laura Martínez",
+    "dni": 1234567,
+    "direccion": "Salta, Salta",
+    "numero": 4567,
+    "credencial": 5623456
+  },
+  {
+    "contrato": true,
+    "nombre": "Diego González",
+    "dni": 9876543,
+    "direccion": "San Juan, San Juan",
+    "numero": 6543,
+    "credencial": 5487654
+  },
+  {
+    "contrato": false,
+    "nombre": "Sofía Rodríguez",
+    "dni": 6789012,
+    "direccion": "La Plata, Buenos Aires",
+    "numero": 9012,
+    "credencial": 1017890
+  },
+  {
+    "contrato": true,
+    "nombre": "Javier Pérez",
+    "dni": 4567890,
+    "direccion": "Neuquén, Neuquén",
+    "numero": 7890,
+    "credencial": 8956789
+  },
+  {
+    "contrato": false,
+    "nombre": "Valentina López",
+    "dni": 15678912,
+    "direccion": "Mar del Plata, Buenos Aires",
+    "numero": 8912,
+    "credencial": 9156789
+  },
+  {
+    "contrato": true,
+    "nombre": "Andrés Fernández",
+    "dni": 8765432,
+    "direccion": "Bariloche, Río Negro",
+    "numero": 5432,
+    "credencial": 4376543
+  },
+  {
+    "contrato": false,
+    "nombre": "Carolina García",
+    "dni": 23456789,
+    "direccion": "Santa Fe, Santa Fe",
+    "numero": 6789,
+    "credencial": 7834567
+  },
+  {
+    "contrato": true,
+    "nombre": "Gabriel Martínez",
+    "dni": 10987654,
+    "direccion": "Jujuy, Jujuy",
+    "numero": 7654,
+    "credencial": 6509876
+  },
+  {
+    "contrato": false,
+    "nombre": "Lucía González",
+    "dni": 17654321,
+    "direccion": "San Luis, San Luis",
+    "numero": 4321,
+    "credencial": 3276543
+  },
+  {
+    "contrato": true,
+    "nombre": "Fernando Pérez",
+    "dni": 19876543,
+    "direccion": "Bahía Blanca, Buenos Aires",
+    "numero": 6543,
+    "credencial": 5498765
+  },
+  {
+    "contrato": false,
+    "nombre": "Camila Rodríguez",
+    "dni": 21234567,
+    "direccion": "Resistencia, Chaco",
+    "numero": 4567,
+    "credencial": 5612345
+  },
+  {
+    "contrato": true,
+    "nombre": "Matías López",
+    "dni": 18765432,
+    "direccion": "Formosa, Formosa",
+    "numero": 5432,
+    "credencial": 4387654
+  },
+  {
+    "contrato": false,
+    "nombre": "Isabella Fernández",
+    "dni": 27654321,
+    "direccion": "Corrientes, Corrientes",
+    "numero": 4321,
+    "credencial": 3276543
+  },
+  {
+    "contrato": true,
+    "nombre": "Nicolás García",
+    "dni": 25678912,
+    "direccion": "Santiago del Estero, Santiago del Estero",
+    "numero": 8912,
+    "credencial": 9156789
+  },
+  {
+    "contrato": false,
+    "nombre": "Paula Martínez",
+    "dni": 20987654,
+    "direccion": "Paraná, Entre Ríos",
+    "numero": 7654,
+    "credencial": 6509876
+  }
+
+]
