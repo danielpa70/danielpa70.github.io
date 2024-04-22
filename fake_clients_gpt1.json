@@ -1,0 +1,164 @@
+{
+  "status": "success",
+  "message": "Data retrieved successfully",
+  "data": [
+    {
+      "client_id": 101,
+      "full_name": "Juan García",
+      "identification": "1379959",
+      "address": {
+        "street": "Calle Principal",
+        "house_number": "123",
+        "floor": "2",
+        "apartment": "A",
+        "location_id": 1,
+        "postal_code": "1234"
+      },
+      "fidelization_credential_number": "FID12345",
+      "risk_level": "medium"
+    },
+    {
+      "client_id": 102,
+      "full_name": "María González",
+      "identification": "2468135",
+      "address": {
+        "street": "Avenida Central",
+        "house_number": "456",
+        "floor": "3",
+        "apartment": "B",
+        "location_id": 2,
+        "postal_code": "5678"
+      },
+      "fidelization_credential_number": "FID67890",
+      "risk_level": "low"
+    },
+    {
+      "client_id": 103,
+      "full_name": "Luis Rodríguez",
+      "identification": "3571592",
+      "address": {
+        "street": "Calle Secundaria",
+        "house_number": "789",
+        "floor": "1",
+        "apartment": "C",
+        "location_id": 3,
+        "postal_code": "91011"
+      },
+      "fidelization_credential_number": "FID24680",
+      "risk_level": "high"
+    },
+    {
+      "client_id": 104,
+      "full_name": "Ana Martínez",
+      "identification": "4682135",
+      "address": {
+        "street": "Avenida Norte",
+        "house_number": "1011",
+        "floor": "4",
+        "apartment": "D",
+        "location_id": 4,
+        "postal_code": "121314"
+      },
+      "fidelization_credential_number": "FID13579",
+      "risk_level": "medium"
+    },
+    {
+      "client_id": 105,
+      "full_name": "Pedro López",
+      "identification": "5793578",
+      "address": {
+        "street": "Calle Este",
+        "house_number": "1213",
+        "floor": "2",
+        "apartment": "E",
+        "location_id": 5,
+        "postal_code": "151617"
+      },
+      "fidelization_credential_number": "FID02468",
+      "risk_level": "low"
+    },
+    {
+      "client_id": 106,
+      "full_name": "Laura Pérez",
+      "identification": "6804912",
+      "address": {
+        "street": "Avenida Oeste",
+        "house_number": "1415",
+        "floor": "3",
+        "apartment": "F",
+        "location_id": 6,
+        "postal_code": "181920"
+      },
+      "fidelization_credential_number": "FID75310",
+      "risk_level": "high"
+    },
+    {
+      "client_id": 107,
+      "full_name": "Carlos Sánchez",
+      "identification": "7916256",
+      "address": {
+        "street": "Calle Sur",
+        "house_number": "1617",
+        "floor": "4",
+        "apartment": "G",
+        "location_id": 7,
+        "postal_code": "212223"
+      },
+      "fidelization_credential_number": "FID86420",
+      "risk_level": "medium"
+    },
+    {
+      "client_id": 108,
+      "full_name": "Sofía Ramírez",
+      "identification": "8027391",
+      "address": {
+        "street": "Avenida Noroeste",
+        "house_number": "1819",
+        "floor": "1",
+        "apartment": "H",
+        "location_id": 8,
+        "postal_code": "242526"
+      },
+      "fidelization_credential_number": "FID97153",
+      "risk_level": "low"
+    },
+    {
+      "client_id": 109,
+      "full_name": "Miguel Gómez",
+      "identification": "9138472",
+      "address": {
+        "street": "Calle Suroeste",
+        "house_number": "2021",
+        "floor": "2",
+        "apartment": "I",
+        "location_id": 9,
+        "postal_code": "272829"
+      },
+      "fidelization_credential_number": "FID58246",
+      "risk_level": "high"
+    },
+    {
+      "client_id": 110,
+      "full_name": "Elena Hernández",
+      "identification": "0246851",
+      "address": {
+        "street": "Avenida Sureste",
+        "house_number": "2223",
+        "floor": "3",
+        "apartment": "J",
+        "location_id": 10,
+        "postal_code": "303132"
+      },
+      "fidelization_credential_number": "FID19374",
+      "risk_level": "medium"
+    }
+  ],
+  "meta": {
+    "currentPage": 1,
+    "prevPage": 0,
+    "nextPage": 2,
+    "totalPages": 4,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}

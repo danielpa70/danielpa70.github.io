@@ -1,0 +1,164 @@
+{
+  "status": "success",
+  "message": "Data retrieved successfully",
+  "data": [
+    {
+      "client_id": 121,
+      "full_name": "Roberto Rivera",
+      "identification": "1398724",
+      "address": {
+        "street": "Calle Sur",
+        "house_number": "4445",
+        "floor": "3",
+        "apartment": "U",
+        "location_id": 21,
+        "postal_code": "575859"
+      },
+      "fidelization_credential_number": "FID24680",
+      "risk_level": "medium"
+    },
+    {
+      "client_id": 122,
+      "full_name": "Sara Jiménez",
+      "identification": "1598135",
+      "address": {
+        "street": "Avenida Norte",
+        "house_number": "4647",
+        "floor": "4",
+        "apartment": "V",
+        "location_id": 22,
+        "postal_code": "606162"
+      },
+      "fidelization_credential_number": "FID67890",
+      "risk_level": "low"
+    },
+    {
+      "client_id": 123,
+      "full_name": "Felipe Ortiz",
+      "identification": "4826592",
+      "address": {
+        "street": "Calle Este",
+        "house_number": "4849",
+        "floor": "1",
+        "apartment": "W",
+        "location_id": 23,
+        "postal_code": "636465"
+      },
+      "fidelization_credential_number": "FID12345",
+      "risk_level": "high"
+    },
+    {
+      "client_id": 124,
+      "full_name": "Carolina Reyes",
+      "identification": "6251135",
+      "address": {
+        "street": "Avenida Oeste",
+        "house_number": "5051",
+        "floor": "2",
+        "apartment": "X",
+        "location_id": 24,
+        "postal_code": "666768"
+      },
+      "fidelization_credential_number": "FID13579",
+      "risk_level": "medium"
+    },
+    {
+      "client_id": 125,
+      "full_name": "Gonzalo Medina",
+      "identification": "2541578",
+      "address": {
+        "street": "Calle Sur",
+        "house_number": "5253",
+        "floor": "3",
+        "apartment": "Y",
+        "location_id": 25,
+        "postal_code": "697071"
+      },
+      "fidelization_credential_number": "FID02468",
+      "risk_level": "low"
+    },
+    {
+      "client_id": 126,
+      "full_name": "Gabriela Fernández",
+      "identification": "5574912",
+      "address": {
+        "street": "Avenida Norte",
+        "house_number": "5455",
+        "floor": "4",
+        "apartment": "Z",
+        "location_id": 26,
+        "postal_code": "727374"
+      },
+      "fidelization_credential_number": "FID75310",
+      "risk_level": "high"
+    },
+    {
+      "client_id": 127,
+      "full_name": "Martín Ramos",
+      "identification": "9494256",
+      "address": {
+        "street": "Calle Este",
+        "house_number": "5657",
+        "floor": "1",
+        "apartment": "AA",
+        "location_id": 27,
+        "postal_code": "757677"
+      },
+      "fidelization_credential_number": "FID86420",
+      "risk_level": "medium"
+    },
+    {
+      "client_id": 128,
+      "full_name": "Adriana Aguilar",
+      "identification": "3214391",
+      "address": {
+        "street": "Avenida Oeste",
+        "house_number": "5859",
+        "floor": "2",
+        "apartment": "AB",
+        "location_id": 28,
+        "postal_code": "777879"
+      },
+      "fidelization_credential_number": "FID97153",
+      "risk_level": "low"
+    },
+    {
+      "client_id": 129,
+      "full_name": "Fernando Acosta",
+      "identification": "3333472",
+      "address": {
+        "street": "Calle Sur",
+        "house_number": "6061",
+        "floor": "3",
+        "apartment": "AC",
+        "location_id": 29,
+        "postal_code": "798081"
+      },
+      "fidelization_credential_number": "FID58246",
+      "risk_level": "high"
+    },
+    {
+      "client_id": 130,
+      "full_name": "Natalia Núñez",
+      "identification": "4444851",
+      "address": {
+        "street": "Avenida Norte",
+        "house_number": "6263",
+        "floor": "4",
+        "apartment": "AD",
+        "location_id": 30,
+        "postal_code": "808182"
+      },
+      "fidelization_credential_number": "FID19374",
+      "risk_level": "medium"
+    }
+  ],
+  "meta": {
+    "currentPage": 3,
+    "prevPage": 2,
+    "nextPage": 4,
+    "totalPages": 4,
+    "hasNext": true,
+    "hasPrev": true
+  }
+}
