@@ -1,0 +1,72 @@
+[
+    {
+        "novelty_id": 69,
+        "date": "01/10/2016 11:44",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 70,
+        "date": "01/10/2016 17:43",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 71,
+        "date": "30/09/2016 16:13",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 72,
+        "date": "30/09/2016 09:13",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 73,
+        "date": "30/09/2016 16:03",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 74,
+        "date": "30/09/2016 19:42",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 75,
+        "date": "30/09/2016 08:27",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 76,
+        "date": "30/09/2016 12:35",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 77,
+        "date": "30/09/2016 11:38",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 78,
+        "date": "30/09/2016 20:22",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    }
+]
