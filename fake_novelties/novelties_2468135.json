@@ -1,0 +1,779 @@
+[
+    {
+        "novelty_id": 29,
+        "date": "17/10/2016 20:16",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 30,
+        "date": "15/10/2016 18:36",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE. ",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 31,
+        "date": "15/10/2016 14:41",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE. ",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 32,
+        "date": "15/10/2016 12:39",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE. ",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 33,
+        "date": "15/10/2016 20:55",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE. ",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 34,
+        "date": "15/10/2016 14:10",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 35,
+        "date": "15/10/2016 19:23",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 36,
+        "date": "14/10/2016 19:43",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 37,
+        "date": "14/10/2016 14:35",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 38,
+        "date": "14/10/2016 11:36",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 39,
+        "date": "14/10/2016 08:32",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 40,
+        "date": "13/10/2016 09:45",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 41,
+        "date": "13/10/2016 12:15",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 42,
+        "date": "13/10/2016 14:34",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 43,
+        "date": "13/10/2016 08:36",
+        "risk_level": "low",
+        "description": "CLIENTE DESBLOQUEADO POR PAGO DE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 44,
+        "date": "12/10/2016 15:59",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 45,
+        "date": "12/10/2016 17:41",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 46,
+        "date": "11/10/2016 09:34",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 47,
+        "date": "11/10/2016 14:55",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 48,
+        "date": "11/10/2016 15:06",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 49,
+        "date": "11/10/2016 17:07",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 50,
+        "date": "11/10/2016 17:56",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 51,
+        "date": "11/10/2016 17:28",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 52,
+        "date": "07/10/2016 19:10",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 53,
+        "date": "07/10/2016 15:55",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 54,
+        "date": "07/10/2016 15:15",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 55,
+        "date": "07/10/2016 08:56",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 56,
+        "date": "07/10/2016 10:08",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 57,
+        "date": "07/10/2016 12:18",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 58,
+        "date": "05/10/2016 18:29",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 59,
+        "date": "05/10/2016 11:37",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 60,
+        "date": "04/10/2016 13:31",
+        "risk_level": "medium",
+        "description": "hablo fede con ana le dijo que va a pagar 5500. gaby",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 61,
+        "date": "04/10/2016 17:16",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 62,
+        "date": "04/10/2016 16:43",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 63,
+        "date": "04/10/2016 18:42",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 64,
+        "date": "04/10/2016 20:23",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 65,
+        "date": "03/10/2016 15:58",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 66,
+        "date": "03/10/2016 13:15",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 67,
+        "date": "01/10/2016 12:23",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 68,
+        "date": "01/10/2016 15:32",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 69,
+        "date": "01/10/2016 11:44",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 70,
+        "date": "01/10/2016 17:43",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 71,
+        "date": "30/09/2016 16:13",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 72,
+        "date": "30/09/2016 09:13",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 73,
+        "date": "30/09/2016 16:03",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 74,
+        "date": "30/09/2016 19:42",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 75,
+        "date": "30/09/2016 08:27",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 76,
+        "date": "30/09/2016 12:35",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 77,
+        "date": "30/09/2016 11:38",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 78,
+        "date": "30/09/2016 20:22",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 79,
+        "date": "30/09/2016 18:07",
+        "risk_level": "low",
+        "description": "levanto la cta x 2 medicamentos y apuro con las recetas. sole",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 80,
+        "date": "29/09/2016 14:11",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 81,
+        "date": "29/09/2016 16:10",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 82,
+        "date": "29/09/2016 19:44",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 83,
+        "date": "29/09/2016 17:19",
+        "risk_level": "medium",
+        "description": "debe mucho dinero antes de vender consultar con fede. gaby",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 84,
+        "date": "22/09/2016 09:09",
+        "risk_level": "low",
+        "description": "CLIENTE DESBLOQUEADO POR PAGO DE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 85,
+        "date": "17/09/2016 17:22",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 86,
+        "date": "17/09/2016 18:13",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 87,
+        "date": "17/09/2016 20:00",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 88,
+        "date": "17/09/2016 18:23",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 89,
+        "date": "15/09/2016 08:38",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 90,
+        "date": "15/09/2016 16:03",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 91,
+        "date": "15/09/2016 19:13",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 92,
+        "date": "15/09/2016 18:55",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 93,
+        "date": "14/09/2016 08:36",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 94,
+        "date": "14/09/2016 15:24",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 95,
+        "date": "10/09/2016 16:53",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 96,
+        "date": "10/09/2016 12:30",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 97,
+        "date": "09/09/2016 12:44",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 98,
+        "date": "09/09/2016 16:55",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 99,
+        "date": "09/09/2016 14:29",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 100,
+        "date": "09/09/2016 10:24",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 101,
+        "date": "08/09/2016 12:56",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 102,
+        "date": "08/09/2016 18:46",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 103,
+        "date": "08/09/2016 12:27",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 104,
+        "date": "08/09/2016 19:20",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 105,
+        "date": "07/09/2016 14:03",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 106,
+        "date": "07/09/2016 17:17",
+        "risk_level": "low",
+        "description": "CLIENTE DESBLOQUEADO POR PAGO DE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 107,
+        "date": "06/09/2016 12:58",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 108,
+        "date": "06/09/2016 20:31",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 109,
+        "date": "03/09/2016 17:31",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 110,
+        "date": "03/09/2016 11:30",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 111,
+        "date": "03/09/2016 10:31",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 112,
+        "date": "03/09/2016 20:22",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 113,
+        "date": "02/09/2016 08:51",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 114,
+        "date": "02/09/2016 20:50",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 115,
+        "date": "01/09/2016 16:57",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 116,
+        "date": "01/09/2016 19:12",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 117,
+        "date": "01/09/2016 13:01",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 118,
+        "date": "01/09/2016 11:24",
+        "risk_level": "low",
+        "description": "CLIENTE DESBLOQUEADO POR PAGO DE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 119,
+        "date": "01/09/2016 20:30",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 120,
+        "date": "01/09/2016 08:57",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 121,
+        "date": "01/09/2016 12:09",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 122,
+        "date": "01/09/2016 20:29",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 123,
+        "date": "31/08/2016 08:32",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 124,
+        "date": "25/08/2016 12:54",
+        "risk_level": "low",
+        "description": "CLIENTE DESBLOQUEADO POR PAGO DE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 125,
+        "date": "24/08/2016 18:28",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 126,
+        "date": "24/08/2016 13:36",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 127,
+        "date": "23/08/2016 09:17",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 128,
+        "date": "23/08/2016 16:06",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 129,
+        "date": "23/08/2016 13:49",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 130,
+        "date": "23/08/2016 16:17",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 131,
+        "date": "23/08/2016 20:32",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 132,
+        "date": "23/08/2016 15:26",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 133,
+        "date": "23/08/2016 11:17",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 134,
+        "date": "23/08/2016 20:33",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 135,
+        "date": "22/08/2016 13:09",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 136,
+        "date": "12/08/2016 20:55",
+        "risk_level": "low",
+        "description": "hable con ana porq vino la hija y me dijo q la autoriza siempre, porq sino nos vamos a volver locas. gaby",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 137,
+        "date": "12/08/2016 12:04",
+        "risk_level": "low",
+        "description": "CLIENTE HABILITADO PARA OPERAR EN CTACTE.",
+        "created_by_system": true
+    },
+    {
+        "novelty_id": 138,
+        "date": "11/08/2016 13:28",
+        "risk_level": "high",
+        "description": "CLIENTE BLOQUEADO AUTOMATICAMENTE POR EXCEDER LIMITE CUENTA CORRIENTE.",
+        "created_by_system": false
+    },
+    {
+        "novelty_id": 139,
+        "date": "27/07/2016 19:50",
+        "risk_level": "low",
+        "description": "hable con ana porq vcompro la hija, me dijo q antes de venderle pedirle autorizacion a ella. gaby",
+        "created_by_system": true
+    }
+]
