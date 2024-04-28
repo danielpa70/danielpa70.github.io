@@ -2,83 +2,83 @@
     "status": "success",
     "message": "Data retrieved successfully",
     "data": [
-    {
-        "novelty_id": 1,
-        "date": "09/01/2018 08:20",
-        "risk_level": "low",
-        "description": "se da de baja de eicoba. sole",
-        "created_by_system": true
-    },
-    {
-        "novelty_id": 2,
-        "date": "19/01/2018 12:04",
-        "risk_level": "high",
-        "description": "SE DA DE BAJA LA CUENTA, SI QUIERE HABILITARLA, PEDIR TODOS LOS PAPELES. SOLE    ",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 3,
-        "date": "19/01/2018 18:23",
-        "risk_level": "low",
-        "description": "CLIENTE BLOQUEADO PARA OPERAR EN CTACTE.",
-        "created_by_system": true
-    },
-    {
-        "novelty_id": 4,
-        "date": "19/01/2018 10:04",
-        "risk_level": "high",
-        "description": "SE ACTUALIZO EL GRUPO DEL CLIENTE. GRUPO ANTERIOR: CLIENTES",
-        "created_by_system": true
-    },
-    {
-        "novelty_id": 5,
-        "date": "19/01/2018 11:38",
-        "risk_level": "low",
-        "description": "CLIENTE DESBLOQUEADO POR COMPROBANTE DE RECIBOEN LA CUENTA CORRIENTE.",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 6,
-        "date": "19/01/2018 14:28",
-        "risk_level": "high",
-        "description": "como no tiene contarto nuevo, y no se puede hacer nada, le ofreci una quita de intereses de todo el 2017, si lo hacia en un pago. sole",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 7,
-        "date": "03/01/2018 12:26",
-        "risk_level": "low",
-        "description": "mando wsapp, nombrando instancia extra judicial. sole",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 8,
-        "date": "15/12/2017 17:59",
-        "risk_level": "high",
-        "description": "VINO LA HIJA Y PREGUNTO EL SALDO. SOLE",
-        "created_by_system": true
-    },
-    {
-        "novelty_id": 9,
-        "date": "09/11/2017 11:15",
-        "risk_level": "low",
-        "description": "mande wsapp.sole ",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 10,
-        "date": "31/03/2017 19:37",
-        "risk_level": "high",
-        "description": "mandé mensaje por whasapp coni",
-        "created_by_system": true
+        {
+            "novelty_id": 1,
+            "date": "2018-01-09 08:20",
+            "risk_level": "low",
+            "description": "se da de baja de eicoba. sole",
+            "created_by_system": true
+        },
+        {
+            "novelty_id": 2,
+            "date": "2018-01-19 12:04",
+            "risk_level": "high",
+            "description": "SE DA DE BAJA LA CUENTA, SI QUIERE HABILITARLA, PEDIR TODOS LOS PAPELES. SOLE    ",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 3,
+            "date": "2018-01-19 18:23",
+            "risk_level": "low",
+            "description": "CLIENTE BLOQUEADO PARA OPERAR EN CTACTE.",
+            "created_by_system": true
+        },
+        {
+            "novelty_id": 4,
+            "date": "2018-01-19 10:04",
+            "risk_level": "high",
+            "description": "SE ACTUALIZO EL GRUPO DEL CLIENTE. GRUPO ANTERIOR: CLIENTES",
+            "created_by_system": true
+        },
+        {
+            "novelty_id": 5,
+            "date": "2018-01-19 11:38",
+            "risk_level": "low",
+            "description": "CLIENTE DESBLOQUEADO POR COMPROBANTE DE RECIBOEN LA CUENTA CORRIENTE.",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 6,
+            "date": "2018-01-19 14:28",
+            "risk_level": "high",
+            "description": "como no tiene contarto nuevo, y no se puede hacer nada, le ofreci una quita de intereses de todo el 2017, si lo hacia en un pago. sole",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 7,
+            "date": "2018-01-03 12:26",
+            "risk_level": "low",
+            "description": "mando wsapp, nombrando instancia extra judicial. sole",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 8,
+            "date": "2017-12-15 17:59",
+            "risk_level": "high",
+            "description": "VINO LA HIJA Y PREGUNTO EL SALDO. SOLE",
+            "created_by_system": true
+        },
+        {
+            "novelty_id": 9,
+            "date": "2017-11-09 11:15",
+            "risk_level": "low",
+            "description": "mande wsapp.sole ",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 10,
+            "date": "2017-03-31 19:37",
+            "risk_level": "high",
+            "description": "mandé mensaje por whasapp coni",
+            "created_by_system": true
+        }
+    ],
+    "meta": {
+        "currentPage": 1,
+        "prevPage": 0,
+        "nextPage": 2,
+        "totalPages": 4,
+        "hasNext": true,
+        "hasPrev": false
     }
-],
-"meta": {
-  "currentPage": 1,
-  "prevPage": 0,
-  "nextPage": 2,
-  "totalPages": 4,
-  "hasNext": true,
-  "hasPrev": false
-}
 }

@@ -4,56 +4,56 @@
     "data": [
         {
             "novelty_id": 21,
-            "date": "28/06/2016 13:04",
+            "date": "2016-06-28 13:04",
             "risk_level": "low",
             "description": "hablo con la titular me dice que está complicada, como todos me dice y que ella es muy buena clienta de la farmacia,está juntando dinero para entregar lo que más pueda promete pasar el viernes coni",
             "created_by_system": true
         },
         {
             "novelty_id": 22,
-            "date": "16/06/2016 16:31",
+            "date": "2016-06-16 16:31",
             "risk_level": "high",
             "description": "C3",
             "created_by_system": false
         },
         {
             "novelty_id": 23,
-            "date": "03/06/2016 19:51",
+            "date": "2016-06-03 19:51",
             "risk_level": "low",
             "description": "hablo con la titular me dice ella tiene comercio y que le estan pagando las clientas que cree que esta semana podría pasar coni",
             "created_by_system": false
         },
         {
             "novelty_id": 24,
-            "date": "18/05/2016 19:00",
+            "date": "2016-05-18 19:00",
             "risk_level": "high",
             "description": "C2",
             "created_by_system": true
         },
         {
             "novelty_id": 25,
-            "date": "05/05/2016 17:39",
+            "date": "2016-05-05 17:39",
             "risk_level": "low",
             "description": "HABLO CON LA TITULAR ME DICE QUE NO SE OLVIDA DEL SALDO CONI",
             "created_by_system": true
         },
         {
             "novelty_id": 26,
-            "date": "19/04/2016 11:05",
+            "date": "2016-04-19 11:05",
             "risk_level": "high",
             "description": "C1",
             "created_by_system": false
         },
         {
             "novelty_id": 27,
-            "date": "08/04/2016 13:56",
+            "date": "2016-04-08 13:56",
             "risk_level": "low",
             "description": "HABLO CON LA TITULAR NO ENTIENDE MUCHO EL SALDO QUE LE QUEDA PORQUE ME HACE REFERENCIA A LA ENTREGA DEL CHEQUE QUEDAMOS EN QUE PASA PORQUE NO ENTIENDE MUCHO Y PIDE UN ESTADO DE CUENTA CONI",
             "created_by_system": false
         },
         {
             "novelty_id": 28,
-            "date": "08/04/2016 15:38",
+            "date": "2016-04-08 15:38",
             "risk_level": "high",
             "description": "CLIENTE BLOQUEADO PARA OPERAR EN",
             "created_by_system": false
