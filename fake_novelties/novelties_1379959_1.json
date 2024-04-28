@@ -1,4 +1,7 @@
-[
+{
+    "status": "success",
+    "message": "Data retrieved successfully",
+    "data": [
     {
         "novelty_id": 1,
         "date": "09/01/2018 08:20",
@@ -69,4 +72,13 @@
         "description": "mandé mensaje por whasapp coni",
         "created_by_system": true
     }
-]
+],
+"meta": {
+  "currentPage": 1,
+  "prevPage": 0,
+  "nextPage": 2,
+  "totalPages": 4,
+  "hasNext": true,
+  "hasPrev": false
+}
+}

@@ -1,72 +1,84 @@
-[
-    {
-        "novelty_id": 11,
-        "date": "31/01/2017 17:08",
-        "risk_level": "low",
-        "description": "mandé sms recordando saldo e informnado alta en eicoba coni",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 12,
-        "date": "12/01/2017 10:58",
-        "risk_level": "high",
-        "description": "se dio de alta en eicoba. sole",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 13,
-        "date": "02/12/2016 20:27",
-        "risk_level": "low",
-        "description": "NO CONTESTA CONI",
-        "created_by_system": true
-    },
-    {
-        "novelty_id": 14,
-        "date": "02/11/2016 12:18",
-        "risk_level": "high",
-        "description": "HABLO CON LA TITULAR ME DICE QUE POR EL MOMENTO NO PUEDE SOLUCIONAR NADA QUE ME QUEDE TRANQUILA QUE YA VA A PAGAR CONI",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 15,
-        "date": "17/10/2016 14:22",
-        "risk_level": "low",
-        "description": "HABLO CON CRISTINA ME DICE QUE UNA DE LAS HIJAS ESTA DE VIAJE Y LA OTRA SE OLVIDA DE PASAR QUE VA A VER COMO HACE PERO QUE VA A PAGAR CONI",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 16,
-        "date": "26/09/2016 12:18",
-        "risk_level": "high",
-        "description": "habalo con la titular me dice que está esperando que le cierre la tarjeta a alguna de las hijas pasaría Debora o Sandra, me dice que ella está muy complicada con su negocio coni",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 17,
-        "date": "08/09/2016 16:36",
-        "risk_level": "low",
-        "description": "hablo con la titular me pregunta si puede pagar con tarjeta le digo que si entonces me dice manda a la hija coni",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 18,
-        "date": "24/08/2016 10:07",
-        "risk_level": "high",
-        "description": "hablo con la titular me dice que hoy estaría entregando $ 1000 y el resto ve si refinancia o paga con un cheque coni",
-        "created_by_system": false
-    },
-    {
-        "novelty_id": 19,
-        "date": "10/08/2016 11:06",
-        "risk_level": "low",
-        "description": "no me puedo comunicar coni",
-        "created_by_system": true
-    },
-    {
-        "novelty_id": 20,
-        "date": "03/08/2016 11:39",
-        "risk_level": "high",
-        "description": "no logro comunicarme coni",
-        "created_by_system": true
+{
+    "status": "success",
+    "message": "Data retrieved successfully",
+    "data": [
+        {
+            "novelty_id": 11,
+            "date": "31/01/2017 17:08",
+            "risk_level": "low",
+            "description": "mandé sms recordando saldo e informnado alta en eicoba coni",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 12,
+            "date": "12/01/2017 10:58",
+            "risk_level": "high",
+            "description": "se dio de alta en eicoba. sole",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 13,
+            "date": "02/12/2016 20:27",
+            "risk_level": "low",
+            "description": "NO CONTESTA CONI",
+            "created_by_system": true
+        },
+        {
+            "novelty_id": 14,
+            "date": "02/11/2016 12:18",
+            "risk_level": "high",
+            "description": "HABLO CON LA TITULAR ME DICE QUE POR EL MOMENTO NO PUEDE SOLUCIONAR NADA QUE ME QUEDE TRANQUILA QUE YA VA A PAGAR CONI",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 15,
+            "date": "17/10/2016 14:22",
+            "risk_level": "low",
+            "description": "HABLO CON CRISTINA ME DICE QUE UNA DE LAS HIJAS ESTA DE VIAJE Y LA OTRA SE OLVIDA DE PASAR QUE VA A VER COMO HACE PERO QUE VA A PAGAR CONI",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 16,
+            "date": "26/09/2016 12:18",
+            "risk_level": "high",
+            "description": "habalo con la titular me dice que está esperando que le cierre la tarjeta a alguna de las hijas pasaría Debora o Sandra, me dice que ella está muy complicada con su negocio coni",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 17,
+            "date": "08/09/2016 16:36",
+            "risk_level": "low",
+            "description": "hablo con la titular me pregunta si puede pagar con tarjeta le digo que si entonces me dice manda a la hija coni",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 18,
+            "date": "24/08/2016 10:07",
+            "risk_level": "high",
+            "description": "hablo con la titular me dice que hoy estaría entregando $ 1000 y el resto ve si refinancia o paga con un cheque coni",
+            "created_by_system": false
+        },
+        {
+            "novelty_id": 19,
+            "date": "10/08/2016 11:06",
+            "risk_level": "low",
+            "description": "no me puedo comunicar coni",
+            "created_by_system": true
+        },
+        {
+            "novelty_id": 20,
+            "date": "03/08/2016 11:39",
+            "risk_level": "high",
+            "description": "no logro comunicarme coni",
+            "created_by_system": true
+        }
+    ],
+    "meta": {
+        "currentPage": 1,
+        "prevPage": 0,
+        "nextPage": 2,
+        "totalPages": 4,
+        "hasNext": true,
+        "hasPrev": false
     }
-]
+}
