@@ -1,0 +1,21 @@
+{
+    "status": "string",
+    "message": "string",
+    "data": [
+      {
+        "person_id": 0,
+        "full_name": "Pedro García",
+        "identification": "1776862"
+      },
+      {
+        "person_id": 1,
+        "full_name": "Laura García",
+        "identification": "19876541"
+      },
+      {
+        "person_id": 2,
+        "full_name": "Sofía García",
+        "identification": "8495167"
+      }
+    ]
+  }

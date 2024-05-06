@@ -1,0 +1,25 @@
+{
+  "status": "string",
+  "message": "string",
+  "data": {
+    "client_id": 101,
+    "account_number": 6546546,
+    "company_id": 15,
+    "observations": "Cliente preferencial",
+    "employee_number": "E34512",
+    "status": "normal",
+    "credit_limit": 10000,
+    "contract_start_date": "2024-01-01",
+    "contract_end_date": "2024-12-31",
+    "risk_level": "low",
+    "indicators": {
+      "signed_contract": true,
+      "pay_slip_present": true,
+      "services_charged": true,
+      "identification_validated": true,
+      "authorized_users_enabled": true,
+      "charge_summary_fee": true,
+      "print_summary": true
+    }
+  }
+}

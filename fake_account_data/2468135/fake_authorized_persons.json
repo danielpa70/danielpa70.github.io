@@ -1,0 +1,21 @@
+{
+    "status": "string",
+    "message": "string",
+    "data": [
+      {
+        "person_id": 0,
+        "full_name": "Juan González",
+        "identification": "2177686"
+      },
+      {
+        "person_id": 1,
+        "full_name": "Diego González",
+        "identification": "15987654"
+      },
+      {
+        "person_id": 2,
+        "full_name": "Hugo González",
+        "identification": "7849516"
+      }
+    ]
+  }

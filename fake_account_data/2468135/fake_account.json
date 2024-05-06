@@ -1,0 +1,25 @@
+{
+  "status": "string",
+  "message": "string",
+  "data": {
+    "client_id": 102,
+    "account_number": 9879879,
+    "company_id": 14,
+    "observations": "Cliente regular",
+    "employee_number": "E12345",
+    "status": "normal",
+    "credit_limit": 20000,
+    "contract_start_date": "2024-02-18",
+    "contract_end_date": "2024-08-17",
+    "risk_level": "high",
+    "indicators": {
+      "signed_contract": true,
+      "pay_slip_present": true,
+      "services_charged": true,
+      "identification_validated": true,
+      "authorized_users_enabled": true,
+      "charge_summary_fee": true,
+      "print_summary": true
+    }
+  }
+}

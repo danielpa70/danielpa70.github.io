@@ -1,0 +1,11 @@
+{
+    "status": [
+        "normal",
+        "blocked",
+        "system_blocked",
+        "legal_situation",
+        "under_review",
+        "closed",
+        "restricted"
+    ]
+}
