@@ -17,6 +17,66 @@
         "contact_type_id": 2,
         "contact_info": "maria@example.com",
         "notes": "Correo electrónico principal"
+      },
+      {
+        "contact_id": 3,
+        "contact_type_id": 3,
+        "contact_info": "+54 249 4425628",
+        "notes": "Teléfono casa tres"
+      },
+      {
+        "contact_id": 4,
+        "contact_type_id": 4,
+        "contact_info": "+54 9 11 28423216",
+        "notes": "Teléfono celular cuatro"
+      },
+      {
+        "contact_id": 5,
+        "contact_type_id": 5,
+        "contact_info": "+54 249 4425628",
+        "notes": "Teléfono casa conco"
+      },
+      {
+        "contact_id": 6,
+        "contact_type_id": 6,
+        "contact_info": "+54 9 11 28423216",
+        "notes": "Teléfono celular seis"
+      },
+      {
+        "contact_id": 7,
+        "contact_type_id": 7,
+        "contact_info": "+54 249 4425628",
+        "notes": "Teléfono casa siete"
+      },
+      {
+        "contact_id": 8,
+        "contact_type_id": 8,
+        "contact_info": "+54 9 11 28423216",
+        "notes": "Teléfono celular ocho"
+      },
+      {
+        "contact_id": 9,
+        "contact_type_id": 9,
+        "contact_info": "+54 249 4425628",
+        "notes": "Teléfono casa nueve"
+      },
+      {
+        "contact_id": 10,
+        "contact_type_id": 10,
+        "contact_info": "+54 9 11 28423216",
+        "notes": "Teléfono celular diez"
+      },
+      {
+        "contact_id": 11,
+        "contact_type_id": 11,
+        "contact_info": "+54 249 4425628",
+        "notes": "Teléfono casa once"
+      },
+      {
+        "contact_id": 12,
+        "contact_type_id": 12,
+        "contact_info": "+54 9 11 28423216",
+        "notes": "Teléfono celular doce"
       }
     ]
   }
