@@ -7,14 +7,14 @@
         "notes": "Teléfono casa"
       },
       {
-        "contact_id": 0,
-        "contact_type_id": 0,
+        "contact_id": 1,
+        "contact_type_id": 1,
         "contact_info": "+54 9 11 28421234",
         "notes": "Teléfono celular"
       },
       {
-        "contact_id": 0,
-        "contact_type_id": 0,
+        "contact_id": 2,
+        "contact_type_id": 2,
         "contact_info": "juan@example.com",
         "notes": "Correo electrónico principal"
       }
